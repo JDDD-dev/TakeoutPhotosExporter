@@ -4,10 +4,10 @@ import os, glob
 import shutil
 
 # specifying the zip file name
-file_name = "C:/Users/JD/Desktop/test/takeout-20210531T194429Z-001.zip"
+file_name = "file_path"
 total_fotos = 0
 
-ruta = "C:/Users/JD/Desktop/test"
+ruta = "root_directory"
 
 os.chdir(ruta)
 os.mkdir(ruta + "/auxiliar")
