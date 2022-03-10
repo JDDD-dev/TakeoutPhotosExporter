@@ -1,6 +1,6 @@
-# GooglePhotosExporter
+# TakeoutPhotosExporter
 
-A simple Python file that removes metadata from Takeout Google Photos, removes duplicates and organize your photos.
+A simple Python file that removes metadata from Google Takeout Photos, removes duplicates and organize your photos.
 
 Supports english and spanish.
 
